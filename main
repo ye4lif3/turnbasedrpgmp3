@@ -1,0 +1,163 @@
+https://youtu.be/R-8bguywalQ
+#you are a young brown child growing up in southern America post 9/11
+answer = input("SHALL WE PLAY A GAME?\nAnswer yes or no ")
+#DAY1BROWNKID
+if answer.lower()== "yes":
+    print("day 1 brown kid")
+    answer=input("Good morning student do you want to take this test ")
+    if answer == "yes":
+        answer=input("You start taking the test and see a student who's smarter. Do you want to cheat? ")
+    if answer == "yes":
+        print("You get caught by the white kid and he tells you to stop cheating")
+    else:
+        if answer =="no":
+            print("You fail the test and the white kid gets a lollipop for his grade")
+
+
+answer= input("You then take the bus home and you see the same kid. Do you want to approach him? ")
+if answer.lower()=="yes":
+        print("He says 'My name is Cooper and I don't like terrorists' ")
+else:
+        print("He says My name is Cooper and I don't like terrorists")
+print("You go home cry to your mom and don't explain anything ")
+
+#DAY1WHITEKID
+print("Wake up honey it's time to go to school")
+print("day 1 white kid")
+answer=input("Good morning student do you want to take this test ")
+if answer.lower()=="yes":
+    answer=input("You see a brown kid looking at your test. Do you let him cheat?")
+    if answer == "yes":
+        print("You told on him because you decided not to help him. ")
+    else:
+        print("You get a great grade on the test and the brown kid looks at you depressed as you suck on the lollipop. ")
+else:
+    if answer == "no":
+        print("The teacher allows you delay the test to another day.")
+answer=input("You then take the bus home and you see the same kid staring at you.Do you listen to what he says?")
+if answer.lower()=="yes":
+    print("Well my name is Momin Jovindha and I am Muslim and proud!")
+else:
+    print("He yells anyway 'Well my name is Momin Jovindha and I am Muslim and proud!'")
+print("Day 2 BrOWN KID")
+answer=input("Your lunch lady hands you a ham sandwich. It is against your religion. Do you eat it? ")
+if answer=="yes":
+    print("It tastes okay. Not worth the sin as you chuckle to yourself.")
+else:
+    print("You sit there and watch as Cooper eats a ham sandwich. He notices you and starts to walk over")
+answer=input("Do you sit silently.")
+if answer=="yes":
+    print("You stay silent as he throws the ham sandwich towards you.")
+else:
+    print("He throws the ham sandwich towards you. ")
+print("You are growing tired of this.")
+print("day2whitekid")
+answer=input("Your lunch lady hands you a ham sandwich. Do you want milk")
+if answer=="yes":
+    print("You take a sip of milk and get halfway through your sandwich as you see Momin watching you again.")
+else:
+    print("You're halfway through your ham sandwich as you see Momin watching you again.")
+answer=input("Do you want to antagonize him? ")
+if answer=="yes":
+    print("You go over to him and throw the ham sandwich in his face.")
+else:
+    print("You go over to him and sit with him.You then throw the ham sandwich on his plate and leave.")
+print("No words are spoken as you leave the room.")
+print("day3brownkid")
+answer=input("You're sitting on the monkey bars and Cooper runs up to you.Do you want to talk to him. ")
+if answer=="yes":
+    print("Someone calls you a raghead and you start crying.")
+else:
+    print("Someone calls you a raghead anyway and you start bawling.")
+answer=input("You fall onto the woodchip ground. Feeling its warmth brings you some comfort.Will you get up.")
+if answer=="yes":
+    print("You get up and dust yourself off.You say' Sticks and stones may break my bones or whatever'")
+else:
+    print("You lay there as the other kids jump around you. Mrs. Shaulanda calls for you to come to class so you go.")
+print("Another day is gone and this guy keeps getting on my nerves.I hope tomorrow is better.")
+print("day3whitekid")
+answer=input("You see Momin on the playground. Do you want to antagonize him again?")
+if answer=="yes":
+    print("Your friends call him a raghead before you can say anything.")
+else:
+    print("One of your friends calls him a raghead and runs away. ")
+answer=input("You feel somewhat bad but not bad enough. You start to disagree with your friends antics.Do you confront them?")
+if answer=="yes":
+    print("They tell you to do one last thing.Next time hes in a bathroom. They want you to throw toilet paper at him.")
+else:
+    print("They tell you to do one last thing.Next time hes in a bathroom. They want you to throw toilet paper at him.")
+print("day4brownkid")
+answer=input("You're peeing and Cooper comes up to the urinal next to you. Do you move over.")
+if answer=="yes":
+    print("He then pelts you with a bunch of wet toilet paper.")
+else:
+    print("He then pelts you with a bunch of wet toilet paper and leaves quickly.")
+answer=input("Do you agree with this behavior?")
+if answer=="yes":
+    print("You start crying.")
+else:
+    print("You start crying in the bathroom alone.")
+print("You want to tell your mom but you don't at the same time.")
+print("She knows something is up and asks you to fight back if someone ever hits you.")
+print("You go to sleep determined to fight him tomorrow.")
+print("day4whitekid")
+answer=input("You stroll up to Momin in the bathroom. Do you want to help with the toilet paper? ")
+if answer=="yes":
+    print("You take some toilet paper and wet it with water. You then continue to pelt Momin with it.")
+else:
+    print("You take some toilet paper and wet it with water. You then continue to pelt Momin with it.")
+answer=input("Momin is crying and you leave the bathroom as your name being called for checkout. Do you tell your mom")
+if answer=="yes":
+    print("She already knew something was up and tells you to not do it anymore.She then tells you to apologize tmrw.")
+else:
+    print("She already knew something was up and fishes it out of you.She then tells you to apologize tmrw.")
+print("You go to sleep determined to make a change as it's not really you and your friends have forced you.")
+print("day5brownkid")
+answer=input("You see Cooper walking through the hallway. He has a smug smile on his face. JUST SAY YES")
+if answer=="yes":
+    print("You punch him in the face and start to get into a fight. Principal Cox")
+    print(" stops the fight and sends you both to the office.")
+answer=input("You are still mad but more mad at yourself then anything.Do you want to work together with Cooper?")
+if answer=="yes":
+    print("He already was ahead of you. You two then draft up a plan to avoid suspension.")
+else:
+    print("He already was ahead of you. You two then draft up a plan to avoid suspension.")
+print("It's gametime. You both walk in with falsified statements on what really happened.")
+
+print("day5whitekid")
+print("After a heart to heart with your mom. You see Momin and want to apologize to him.")
+answer=input("Out of the blue he punches you and are shocked. Do you punch back.")
+if answer=="yes":
+    print("You fight back and ya'll fall onto the floor in the hallway. Principal Cox notices and breaks you up.")
+else:
+    print("You try to hug him but he thinks you want to wrestle. Principal Cox steps in and breaks you two up. ")
+answer=input("You're both in the office sitting silently. Do you want to try to tell him how you can both get out of it.")
+if answer=="yes":
+    print("He agrees and says I was just about to say that.")
+else:
+    print("He agrees and says I was just about to say that.")
+print("Trying to avoid suspension. You both go in one by one. You tense up as your turn gets closer.")
+print("Long story short you two get suspended for one day.")
+print("day6whitekid")
+print("You realize Momin lives nearby and go to his house. His parents don't open the door.So you go to the window ")
+print("outside his room.")
+answer=input("Do you take the rocks and throw it at his window.")
+if answer=="yes":
+    print("He opens the blinds and gets scared seeing you.")
+else:
+    print("He opens the blinds and gets scared seeing you.")
+answer=input("You ask him to come outside. He does but do you want to end the rivalry and explain what actually happened.")
+if answer=="yes":
+    print("You explain how your fake friends told you to bully him and how you're sorry.You too hug and cry a little.")
+else:
+    print("He says he forgives you and then you explain how your friends forced you to do this. ")
+print("Momin says he wants our parents to meet.So then they can see that it was just a slight misunderstanding.")
+print("day7epilogue")
+answer=input("Do you want the great ending?")
+if answer=="yes":
+    print("The families met together at the request of the little boys. ")
+    print("They formed a strong bond after that and were an example for other families all across the neighborhood.")
+else:
+    print("Ok I will give you a semi decent ending. A more realistic one per say. The kids tried to convince their ")
+    print ("parents but they just didn't gel that much. Although the two kids formed a great bond that they ")
+    print("shared throughout the rest of their lives.")
